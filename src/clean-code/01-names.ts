@@ -21,8 +21,7 @@
 
   // Mejor
   class User {}
-  interface User { }
-  
+  interface User {}
 
   // Todo: Tarea
 
