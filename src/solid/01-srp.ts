@@ -60,7 +60,7 @@
 
   const productService = new ProductService();
   const mailer = new Mailer();
-  
+
   const productBloc = new ProductBloc(productService, mailer);
   const cartBloc = new CartBloc();
 
